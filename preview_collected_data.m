@@ -1,4 +1,4 @@
-%!wget https://uofi.box.com/shared/static/072dh8s3sd4u2pd3fbdnucddt2hkcwt2.mat
+!wget https://uofi.box.com/shared/static/072dh8s3sd4u2pd3fbdnucddt2hkcwt2.mat
 load 072dh8s3sd4u2pd3fbdnucddt2hkcwt2.mat
 
 for i=1:72
